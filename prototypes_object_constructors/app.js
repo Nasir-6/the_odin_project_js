@@ -1,0 +1,1 @@
+// Examples of prototypes and constructors
